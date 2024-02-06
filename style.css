@@ -1,0 +1,12 @@
+h1.blau{
+    color: blue;
+}
+ul.numero{
+    list-style-type: decimal;
+}
+table{
+    border-color: blue  ; 
+    border: 1px solid;
+    height: 200px;
+    width: 400px;
+}
